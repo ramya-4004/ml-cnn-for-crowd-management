@@ -43,6 +43,8 @@ The centroidtracker.py file in OUTSIDE_STORE has all the further details.
 There is a video also in OUTSIDE_STORE which is used as a demo for the basic working of the aforementioned scripts.
 The full functionality of this is still a Work In Progress.
 
+![Snapshot](Demo.png)
+
 ### 2. Crowd Counting
 
 
