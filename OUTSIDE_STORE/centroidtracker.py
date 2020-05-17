@@ -37,7 +37,7 @@ class CentroidTracker():
 			for OID in list(self.disappear.keys()):
 				self.disappear[OID] += 1
 				# checking the limit of disappearance
-				if self.disappeared[OID] > self.maxDisappeared:
+				if self.disappear[OID] > self.maxDisappear:
 					self.delete(OID)
 
 			# there is no tracking info to update
