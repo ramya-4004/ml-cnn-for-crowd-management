@@ -49,8 +49,8 @@ The full functionality of this is still a Work In Progress.
 ## How-to-run
 
 ```
-cd OUTSIDE_STORE
-python queue.py
+Directory_where_the_project_is>cd OUTSIDE_STORE
+>python queue.py
 
 ```
 
